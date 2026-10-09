@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 80" width="340" height="80">
+  <defs>
+    <linearGradient id="vrGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e11d48" />
+      <stop offset="100%" stop-color="#be123c" />
+    </linearGradient>
+  </defs>
+
+  <!-- Fashion Clothes Hanger & Shopping Bag Icon -->
+  <g transform="translate(10, 8)">
+    <!-- Hanger Hook -->
+    <path d="M 32 18 C 32 8 44 8 44 18 C 44 24 38 26 38 30" fill="none" stroke="#e11d48" stroke-width="3" stroke-linecap="round" />
+    <!-- Clothes Hanger Triangle -->
+    <path d="M 12 42 L 38 30 L 64 42 C 60 46 16 46 12 42 Z" fill="#fff1f2" stroke="#e11d48" stroke-width="2.5" stroke-linejoin="round" />
+    <!-- Crossbar -->
+    <line x1="16" y1="42" x2="60" y2="42" stroke="#be123c" stroke-width="2" />
+    <!-- Shopping Tag / Little Garment Accent -->
+    <circle cx="38" cy="42" r="3" fill="#f59e0b" />
+    <path d="M 38 45 L 34 56 L 42 56 Z" fill="#e11d48" />
+  </g>
+
+  <!-- Typography -->
+  <text x="86" y="44" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="28" font-weight="800" fill="#0f172a" letter-spacing="1">
+    VR <tspan fill="url(#vrGrad)">FASHION</tspan>
+  </text>
+  <text x="88" y="60" font-family="'Inter', 'Segoe UI', sans-serif" font-size="9.5" font-weight="600" fill="#64748b" letter-spacing="2">
+    READY-MADE CLOTHING MARKETPLACE
+  </text>
+</svg>

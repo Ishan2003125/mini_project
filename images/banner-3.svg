@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480">
+  <defs>
+    <linearGradient id="b3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#eff6ff" />
+      <stop offset="100%" stop-color="#dbeafe" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="480" fill="url(#b3)" />
+  <circle cx="950" cy="240" r="180" fill="#bfdbfe" opacity="0.4" />
+  <!-- Delivery Truck Graphic -->
+  <g transform="translate(820, 150)">
+    <rect x="0" y="40" width="160" height="100" rx="8" fill="#0284c7" />
+    <path d="M 160 70 L 220 70 L 240 100 L 240 140 L 160 140 Z" fill="#0369a1" />
+    <!-- Wheels -->
+    <circle cx="50" cy="145" r="22" fill="#1e293b" />
+    <circle cx="50" cy="145" r="9" fill="#94a3b8" />
+    <circle cx="190" cy="145" r="22" fill="#1e293b" />
+    <circle cx="190" cy="145" r="9" fill="#94a3b8" />
+    <!-- Package inside truck -->
+    <rect x="25" y="60" width="50" height="40" fill="#f59e0b" rx="4" />
+    <text x="50" y="85" font-family="'Inter', sans-serif" font-size="10" font-weight="700" fill="#ffffff" text-anchor="middle">COD</text>
+  </g>
+  <g transform="translate(80, 160)">
+    <rect x="0" y="0" width="220" height="32" rx="16" fill="#0284c7" />
+    <text x="16" y="21" font-family="'Inter', sans-serif" font-size="11" font-weight="700" fill="#ffffff">ISLAND-WIDE SHIPPING</text>
+    <text x="0" y="85" font-family="'Poppins', sans-serif" font-size="44" font-weight="800" fill="#0f172a">Free Delivery Over Rs. 5,000</text>
+    <text x="0" y="130" font-family="'Inter', sans-serif" font-size="16" fill="#475569">Cash on delivery available in all 25 districts across Sri Lanka.</text>
+    <text x="0" y="155" font-family="'Inter', sans-serif" font-size="16" fill="#475569">Fast dispatch directly from seller warehouses.</text>
+  </g>
+</svg>
+

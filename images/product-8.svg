@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" rx="16" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  <!-- Classic Canvas Low-Top Sneaker (Side Profile) -->
+  <g transform="translate(60, 110)">
+    <!-- Main Shoe Canvas Body -->
+    <path d="M 60 140 C 60 90 120 70 160 85 L 210 130 C 240 140 280 150 285 180 L 15 180 C 15 150 35 140 60 140 Z" fill="#ffffff" stroke="#cbd5e1" stroke-width="2.5" />
+    <!-- Rubber Toe Cap -->
+    <path d="M 230 145 C 265 150 285 160 285 180 L 225 180 Z" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2" />
+    <!-- White Eyelet Strip & Laces -->
+    <path d="M 120 90 L 180 140" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" />
+    <circle cx="130" cy="100" r="3" fill="#cbd5e1" />
+    <circle cx="150" cy="115" r="3" fill="#cbd5e1" />
+    <circle cx="170" cy="130" r="3" fill="#cbd5e1" />
+    <!-- Cross Laces -->
+    <line x1="125" y1="95" x2="140" y2="105" stroke="#475569" stroke-width="2" />
+    <line x1="145" y1="110" x2="160" y2="120" stroke="#475569" stroke-width="2" />
+    <line x1="165" y1="125" x2="180" y2="135" stroke="#475569" stroke-width="2" />
+    <!-- Rubber Outsole -->
+    <rect x="10" y="180" width="280" height="26" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="2" />
+    <!-- Red Pinstripe along Sole -->
+    <line x1="15" y1="192" x2="285" y2="192" stroke="#e11d48" stroke-width="2" />
+  </g>
+  <!-- Badge -->
+  <rect x="20" y="20" width="85" height="24" rx="12" fill="#f1f5f9" />
+  <text x="62" y="36" fill="#475569" font-family="'Inter', sans-serif" font-size="10" text-anchor="middle" font-weight="700">FOOTWEAR</text>
+</svg>

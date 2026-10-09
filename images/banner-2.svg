@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480">
+  <defs>
+    <linearGradient id="b2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ecfdf5" />
+      <stop offset="100%" stop-color="#d1fae5" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="480" fill="url(#b2)" />
+  <circle cx="950" cy="240" r="180" fill="#a7f3d0" opacity="0.4" />
+  <!-- Traditional Handloom & Sarong / Kurti Art -->
+  <g transform="translate(850, 120)">
+    <rect x="0" y="0" width="220" height="240" rx="12" fill="#ffffff" stroke="#10b981" stroke-width="2" />
+    <!-- Batik pattern lines -->
+    <path d="M 20 40 Q 60 20 100 40 T 180 40" fill="none" stroke="#10b981" stroke-width="3" />
+    <path d="M 20 80 Q 60 60 100 80 T 180 80" fill="none" stroke="#059669" stroke-width="3" />
+    <path d="M 20 120 Q 60 100 100 120 T 180 120" fill="none" stroke="#047857" stroke-width="3" />
+    <circle cx="110" cy="180" r="30" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" />
+    <text x="110" y="185" font-family="'Poppins', sans-serif" font-size="11" font-weight="700" fill="#b45309" text-anchor="middle">BATIK &amp; SILK</text>
+  </g>
+  <g transform="translate(80, 160)">
+    <rect x="0" y="0" width="200" height="32" rx="16" fill="#10b981" />
+    <text x="16" y="21" font-family="'Inter', sans-serif" font-size="11" font-weight="700" fill="#ffffff">LOCAL HANDICRAFT</text>
+    <text x="0" y="85" font-family="'Poppins', sans-serif" font-size="44" font-weight="800" fill="#0f172a">Batik &amp; Handloom Specials</text>
+    <text x="0" y="130" font-family="'Inter', sans-serif" font-size="16" fill="#475569">Support verified Sri Lankan apparel makers &amp; boutique designers.</text>
+    <text x="0" y="155" font-family="'Inter', sans-serif" font-size="16" fill="#475569">Authentic handloom sarongs, silk blouses, and batik shirts.</text>
+  </g>
+</svg>
+
